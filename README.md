@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn: https://www.linkedin.com/in/bhupesh-patil-116463210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn:https://www.linkedin.com/in/bhupesh-patil-116463210)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patilbhupesh002@gmail.com) 
 
 # 💻 Tech Stack:
